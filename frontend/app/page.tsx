@@ -45,7 +45,7 @@ export default function Home() {
                 <p className="font-bold text-gray-800 text-lg">
                   Nguyễn Phúc Khang
                 </p>
-                <p className="text-cyan-600 font-semibold">MSSV: 22127419</p>
+                <p className="text-cyan-600 font-semibold">MSSV: 22127180</p>
               </div>
             </div>
           </div>
