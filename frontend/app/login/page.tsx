@@ -190,7 +190,7 @@ export default function LoginPage() {
               <div className="flex items-center gap-3 p-4 bg-green-50 border border-green-200 rounded-lg">
                 <CheckCircle2 className="h-5 w-5 text-green-600 flex-shrink-0" />
                 <p className="text-sm text-green-600 font-medium">
-                  Đăng nhập thành công! (Backend chưa được triển khai)
+                  Đăng nhập thành công!
                 </p>
               </div>
             )}
